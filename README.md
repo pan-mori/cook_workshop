@@ -1,5 +1,5 @@
 ## 🌱 Quesadilla se špenátem a houbami
-![obrazek](quesadillas.jpg)
+![obrazek](https://mexicocheese.com/wp-content/uploads/2023/05/Asadero-Cheese-in-Quesadillas-750x563.jpg)
 
 **Porce:** 2 quesadilly
 
@@ -29,7 +29,7 @@
 ---
 
 ## 🧀 Cheesesteak Quesadilla
-![obrazek](quesadillas.jpg)
+![obrazek](https://mexicocheese.com/wp-content/uploads/2023/05/Asadero-Cheese-in-Quesadillas-750x563.jpg)
 
 **Porce:** 2 quesadilly
 
@@ -56,7 +56,7 @@
 ---
 
 ## 🌮 Kuřecí fajita quesadilla
-![obrazek](quesadillas.jpg)
+![obrazek](https://mexicocheese.com/wp-content/uploads/2023/05/Asadero-Cheese-in-Quesadillas-750x563.jpg)
 
 **Porce:** 2 quesadilly
 
@@ -89,7 +89,7 @@
 ---
 
 ## 🌶️ BBQ kuřecí quesadilla
-![obrazek](quesadillas.jpg)
+![obrazek](https://mexicocheese.com/wp-content/uploads/2023/05/Asadero-Cheese-in-Quesadillas-750x563.jpg)
 
 **Porce:** 1–2 quesadilly
 
